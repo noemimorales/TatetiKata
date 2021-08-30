@@ -1,0 +1,9 @@
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/bin/Debug/TicTacToe.dll
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/bin/Debug/nunit.framework.dll
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/bin/Debug/nunit.framework.xml
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csprojAssemblyReference.cache
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csproj.CopyComplete
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.dll
+/Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.pdb
