@@ -7,3 +7,12 @@
 /Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csproj.CopyComplete
 /Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.dll
 /Users/danielrobert/Documents/workspace/TicTacToe/TicTacToe/obj/Debug/TicTacToe.pdb
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\bin\Debug\TicTacToe.dll
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\bin\Debug\nunit.framework.dll
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\bin\Debug\nunit.framework.xml
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\obj\Debug\TicTacToe.csproj.CopyComplete
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\obj\Debug\TicTacToe.dll
+D:\_Curso de Videojuegos\repo github\TatetiKata\TicTacToe\obj\Debug\TicTacToe.pdb
